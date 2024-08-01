@@ -20,6 +20,7 @@ During my tenure at IBM and TCS, I gained valuable experience in leading teams t
 My work experience, combined with my academic pursuits, has equipped me with a comprehensive toolkit in data science and analytics. I have honed my skills across various analytics platforms, including Python, SQL, Excel, Power BI, and machine learning techniques. Each step in my journey has reinforced my passion for data and my commitment to leveraging it for actionable insights and strategic decision-making.
 
 You can find my detailed resume [here](https://github.com/AkshataAnnigeri/resume/blob/main/Akshata_Gurayya_Annigeri_Resume.pdf).
+Linkedln [here](https://www.linkedin.com/in/akshata-gurayya-annigeri-226594162/)
 
 
 ## Projects
