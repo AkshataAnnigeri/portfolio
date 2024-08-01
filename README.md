@@ -41,6 +41,6 @@ This project involves analyzing OList’s inventory data to optimize management 
 ### Education
 1) MS in Data Analytics : McDaniel College, Maryland, USA , Aug 2023 — Present                                                                   
 2) Executive Post Graduate Diploma in Data Science (Business Intelligence and Data Analytics):International Institute of Information Technology,Bangalore, India ,Feb 2022 — Nov 2023     
-3)Bachelors in engineering (BE) in Electrical & Electronics: KLS Gogte Institute of Technology, Belagavi, India, Jun 2014 — Jun 2018
+3) Bachelors in engineering (BE) in Electrical & Electronics: KLS Gogte Institute of Technology, Belagavi, India, Jun 2014 — Jun 2018
 
 
